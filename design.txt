@@ -9,3 +9,118 @@ products-
     body:
         body wash,soap,body lotion,body cream,body scrub,body oils,Hand Care,Foot Care,spary,Body Butter
         
+FACE:
+
+Product: Cleanser Price: ₹299 Tags: Gentle, Hydrating, Daily Care
+Details: A gentle cleanser that removes dirt, oil, and makeup while
+maintaining the skin’s natural moisture barrier. How to Use: Massage
+onto wet face for 30–60 seconds, then rinse with water.
+
+Product: Serum Price: ₹499 Tags: Brightening, Lightweight, Glow Details:
+Concentrated formula that targets dullness, uneven skin tone, and
+hydration. How to Use: Apply 2–3 drops after cleansing before
+moisturizer.
+
+Product: Moisturizer Price: ₹399 Tags: Hydrating, Soft Skin, Daily
+Details: Locks in moisture and keeps skin smooth all day. How to Use:
+Apply evenly on clean face morning and night.
+
+Product: Sunscreen Price: ₹499 Tags: SPF 50, UV Protection, Non-Greasy
+Details: Protects skin from harmful UVA and UVB rays. How to Use: Apply
+generously 15 minutes before sun exposure.
+
+Product: Face Wash Price: ₹249 Tags: Fresh, Oil Control, Clean Details:
+Removes excess oil and impurities for a refreshed feel. How to Use: Use
+twice daily on damp skin.
+
+Product: Face Mask Price: ₹349 Tags: Detox, Glow, Nourishing Details:
+Deep-cleansing mask that refreshes and revitalizes skin. How to Use:
+Leave on for 10–15 minutes, then rinse.
+
+Product: Face Scrub Price: ₹299 Tags: Exfoliating, Smooth, Bright
+Details: Removes dead skin cells for softer, brighter skin. How to Use:
+Massage gently 1–2 times weekly.
+
+Product: Toner Price: ₹349 Tags: Pore Care, Refreshing, Balance Details:
+Balances skin and prepares it for skincare. How to Use: Apply with a
+cotton pad after cleansing.
+
+Product: Essence Price: ₹549 Tags: Hydration, Radiance, Lightweight
+Details: Boosts hydration and improves skin texture. How to Use: Pat
+gently into clean skin.
+
+Product: Eye Care Price: ₹399 Tags: Dark Circles, Hydration, Firming
+Details: Hydrates and refreshes the under-eye area. How to Use: Dab
+gently around the eyes.
+
+Product: Lip Care Price: ₹199 Tags: Soft Lips, Repair, Nourishing
+Details: Moisturizes and protects dry lips. How to Use: Apply whenever
+needed.
+
+HAIR:
+
+Shampoo - ₹349 Tags: Clean, Nourishing, Fresh Details: Cleanses hair
+while removing dirt and excess oil. How to Use: Massage into wet hair
+and rinse.
+
+Conditioner - ₹349 Tags: Smooth, Soft, Repair Details: Makes hair softer
+and easier to manage. How to Use: Apply after shampoo, leave for 2–3
+minutes, rinse.
+
+Hair Serum - ₹499 Tags: Shine, Anti-Frizz, Smooth Details: Controls
+frizz and adds shine. How to Use: Apply to damp or dry hair.
+
+Hair Oil - ₹399 Tags: Nourishing, Healthy, Strong Details: Deeply
+nourishes hair and scalp. How to Use: Massage into scalp before washing.
+
+Hair Mask - ₹549 Tags: Repair, Deep Care, Hydration Details: Intense
+conditioning treatment for damaged hair. How to Use: Use once or twice
+weekly.
+
+Hair Spray - ₹299 Tags: Hold, Styling, Flexible Details: Keeps
+hairstyles in place. How to Use: Spray evenly from 20–30 cm away.
+
+Hair Cream - ₹349 Tags: Moisture, Smooth, Styling Details: Reduces frizz
+and improves softness. How to Use: Apply to damp hair.
+
+Hair Gel - ₹249 Tags: Strong Hold, Shine, Style Details: Long-lasting
+styling gel. How to Use: Apply evenly to hair.
+
+Hair Growth Price: ₹699 Tags: Healthy Roots, Strength, Care Details:
+Promotes healthier-looking hair. How to Use: Massage into scalp daily.
+
+Dry Shampoo Price: ₹399 Tags: Fresh, Oil Control, Quick Details:
+Refreshes hair between washes. How to Use: Spray onto roots and brush
+through.
+
+BODY:
+
+Body Wash - ₹299 Tags: Refreshing, Hydrating, Gentle Details: Cleanses
+while keeping skin moisturized. How to Use: Use during shower and rinse.
+
+Soap - ₹149 Tags: Fresh, Gentle, Clean Details: Everyday cleansing bar.
+How to Use: Lather and rinse.
+
+Body Lotion - ₹399 Tags: Moisture, Soft Skin, Daily Details: Hydrates
+dry skin. How to Use: Apply after bathing.
+
+Body Cream - ₹449 Tags: Rich, Smooth, Hydration Details: Deep
+moisturizing cream. How to Use: Massage into skin.
+
+Body Scrub - ₹349 Tags: Exfoliating, Glow, Smooth Details: Removes dead
+skin cells. How to Use: Use 1–2 times weekly.
+
+Body Oils - ₹499 Tags: Nourishing, Glow, Silky Details: Leaves skin soft
+and radiant. How to Use: Massage onto damp skin.
+
+Hand Care - ₹249 Tags: Soft Hands, Repair, Moisture Details: Hydrates
+and protects hands. How to Use: Apply as needed.
+
+Foot Care - ₹299 Tags: Heel Repair, Comfort, Smooth Details: Softens
+rough feet. How to Use: Massage before bedtime.
+
+Spray - ₹299 Tags: Fresh, Long Lasting, Body Mist Details: Light
+fragrance for daily freshness. How to Use: Spray onto clean skin.
+
+Body Butter - ₹549 Tags: Ultra Moisture, Rich, Nourishing Details: Deep
+hydration for dry skin. How to Use: Apply after showering.
