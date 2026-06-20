@@ -1,0 +1,11 @@
+web name CARE-color purple Hex: #872D91
+products- 
+    face:
+        cleanser,serum,moistrizer,sunscreeen,face wash, face mask, face scrubs,toners,essence,eye care,lip care
+
+    hair:
+        shampoo,conditner,hair serum,hair oil, hair mask, hair spray,hair cream,hair gel,hair growth,dry shampoo
+
+    body:
+        body wash,soap,body lotion,body cream,body scrub,body oils,Hand Care,Foot Care,spary,Body Butter
+        
